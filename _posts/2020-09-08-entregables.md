@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
-tags: [documentation,sample]
+title: "Entregables"
+author: "Equipo de investigacion"
+categories: entregables
+tags: [entregables,sample]
 image: arctic-4.jpg
 ---
 
