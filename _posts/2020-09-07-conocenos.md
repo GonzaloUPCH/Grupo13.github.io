@@ -11,9 +11,11 @@ Amatay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 ## Integrantes
 
-*Persona 1
-*Persona 2
-*yo
+*Persona 1.
+
+*Persona 2.
+
+*yo.
 
 ## Example Content
 
