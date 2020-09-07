@@ -17,7 +17,8 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 *Ricardo Alonso Muñoz Quiroz.
 
-image: Harold.jpeg
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/prueba-3/assets/img/Harold.jpeg)
+
 *Harold Angeles Gavidia.
 
 *Sandro Alonso Robles Alcoser.
