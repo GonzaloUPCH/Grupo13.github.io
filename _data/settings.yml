@@ -1,15 +1,15 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Conocenos', folder: 'pages', file: 'conocenos.html'}
+- {name: 'Caso Medico', folder: 'pages', file: 'caso-medico.html'}
+- {name: 'Entregables', folder: 'pages', file: 'entregables.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
@@ -30,6 +30,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Tambien te puede interesar...'
 
 post_date_prefix: 'Written on'
