@@ -17,7 +17,7 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 ## Alejandra Vilca Landa(Coordinador de investigacion)
 
-*Encargado de gestionar la informacion que sea necesaria para el avance del proyect. Verificar las fuentes utilizadas, analizar el contenido relevante, revision del estado del arte, causas-efectos, fisiopatologia, datos estadisticos sobre incidencia y mortalidad, y las propuestas de solucion generadas.
+* Encargado de gestionar la informacion que sea necesaria para el avance del proyect. Verificar las fuentes utilizadas, analizar el contenido relevante, revision del estado del arte, causas-efectos, fisiopatologia, datos estadisticos sobre incidencia y mortalidad, y las propuestas de solucion generadas.
 
 ## Ricardo Alonso Muñoz Quiroz(Coordinador de programacion)
 
