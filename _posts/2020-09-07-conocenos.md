@@ -3,7 +3,7 @@ layout: post
 title: "Conocenos"
 author: "Equipo de software"
 categories: documentation
-tags: [Conocenos,sample]
+tags: [Conocenos,conocenos]
 image: cuba-1.jpg
 ---
 
