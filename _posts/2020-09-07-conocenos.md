@@ -11,17 +11,20 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 ## Integrantes
 
-*Gonzalo Povea Galdo.
+# Gonzalo Povea Galdo.
 
-*Alejandra Vilca Landa.
+# Alejandra Vilca Landa.
 
-*Ricardo Alonso Muñoz Quiroz.
+# Ricardo Alonso Muñoz Quiroz.
 
 ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/prueba-3/assets/img/Harold.jpeg)
 
-*Harold Angeles Gavidia.
+# Harold Angeles Gavidia(Coordinador organizacional).
+* Encargado de gestionar las fechas de reuniones como agrupacion, asi coomo ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo. Osea el vago.
+ 
 
-*Sandro Alonso Robles Alcoser.
 
-*Alejandra Andrea Diaz Casanova. 
+# Sandro Alonso Robles Alcoser
+
+# Alejandra Andrea Diaz Casanova 
 
