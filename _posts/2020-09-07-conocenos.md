@@ -3,7 +3,7 @@ layout: post
 title: "Conocenos"
 author: "Equipo de software"
 categories: conocenos
-tags: [Conocenos,Conocenos]
+tags: [conocenos]
 image: 0.jpg
 ---
 
