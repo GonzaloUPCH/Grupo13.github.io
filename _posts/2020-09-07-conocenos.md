@@ -7,11 +7,13 @@ tags: [conocenos,sample]
 image: cuba-1.jpg
 ---
 
-Somos un equipo de estudiantes de la carrera de Ingenieria Biomedica 
+Amatay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pontificia Universidad Catolica del Peru y de la Universidad Peruana Cayetano Heredia, dedicados a la investigacion relacionada a problemas de salud. 
 
-## Getting Started
+## Integrantes
 
-[Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+*Persona 1
+*Persona 2
+*yo
 
 ## Example Content
 
