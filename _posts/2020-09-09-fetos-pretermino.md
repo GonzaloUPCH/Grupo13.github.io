@@ -69,4 +69,18 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 
 # Impacto en Latinoamerica 
 
+* La presencia de los factores de riesgos y causas inmediatas asociadas a la enfermedad dejan en evidencia que esta condición puede impactar a las familias y los neonatos de manera paulatina. Uno de estos va dirigido al impacto económico que acarrean las consecuencias de la enfermedad en el neonato, ya que una rehabilitación no tan exitosa puede dejar lesiones graves en los pulmones que lleven a condiciones respiratorias a futuro. La magnitud del impacto radica en el tipo de gestantes, en las cuales se presenta un parto prematuro, siendo en jóvenes de la selva.
+
+## Niveles de incidencia y prevalencia
+
+Un estudio realizado por la Dra. Fernanda Acuña Arellano -pediatra chilena pudo compara los niveles de incidencia para la enfermedad de la membrana hialina. Dentro de la muestra o segmento de población analizado se presentaron (5-10) % casos conocidos como RNPT de los cuales los nacidos a la semana 28 fueron entre 80-90 % del muestreo. Sin aplicación de corticoides (hormonas reguladoras) se presentaron en un 60% de casos con la enfermedad. Esto nos demuestra que más de la mitad del segmento de estudio denominado como RNPT posee un riesgo elevado de contraer la enfermedad.
+
+## Tasas de mortalidad 
+
+Un estudio realizado en el Hospital Civil de Guadalajara entre el 2001 y el 2002 reflejo que dentro de los casos analizamos de recién nacidos con la enfermedad de la membrana hialina (5986 nacimientos entre fechas). 41 de los casos dieron positivo y se estimó la frecuencia de 6.8 por 1000 recién nacidos. Hubo 17 casos fatales y se estimó la tasa de mortalidad en 41.5%; es decir 2.8 por cada 1000.
+
+## Muestras de mortalidad en el Peru 
+
+Si bien es cierto, la tasa de mortalidad ha disminuido en estas ultimas décadas de acuerdo a la enfermedad de la membrana hialina. Sin embargo, sigue presentando un problema cadente. Se muestran a continuación datos estadísticos sobre la tasa de en lima por la EMH en lima (Ota Nakasome,2018). en comparación tanto con otras enfermedades comunes y en relación al transcurso de los años:
+
 
