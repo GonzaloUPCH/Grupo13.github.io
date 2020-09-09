@@ -7,16 +7,12 @@ tags: [entregables,sample]
 image: entregable.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+En esta seccion presentaremos un resumen de los entregables designados para cada semana de trabajo, con los correspondientes links para poder visualizar la informacion completa. Se detallaran los segmentos modificados de la pagina web y los cambios realizados por el equipo de trabajo.
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+# Semana 1
 
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
+* En la primera semana investigo acerca del caso clinico con un enfoque personal del grupo abarcando los siguientes temas: problematica, causas y efectos, incidencias, mortalidad y fisiopatologia. Pulse aqui para mas informacion.
 
-## [Codecademy](https://www.codecademy.com/)
+* Ademas se adjunto informacion sobre el equipo de trabajo, junto con su respectiva asignacion a desarrollar a lo largo del curso. Pulse aqui para mas informacion.
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
-
-## [Khan Academy](https://www.khanacademy.org/)
-
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+* Se diseño y modelo la pagina previo a una coordinacion del grupo. Pulse aqui para mas informacion.
