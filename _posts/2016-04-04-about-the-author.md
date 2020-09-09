@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: facts
-tags: [sample]
+title: "Diseños y modelos"
+author: "Equipo de diseño"
+categories: diseño
+tags: [diseño]
 image: cuba-4.jpg
 ---
 
