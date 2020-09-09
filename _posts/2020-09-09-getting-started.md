@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Medicina"
-author: "Paul Le"
+title: "Caso medico"
+author: "Equipo de investigacion"
 categories: documentation
 tags: [documentation,sample]
 image: city-2.jpg
