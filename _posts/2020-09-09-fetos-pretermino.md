@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caso medico"
+title: "Fetos pretérmino"
 author: "Equipo de investigacion"
 categories: caso-medico
 tags: [caso-medico]
