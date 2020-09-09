@@ -32,10 +32,10 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Haru%20(2).jpeg)
 
 * Encargado de gestionar las fechas de reuniones como agrupacion, asi coomo ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo.
- 
-
 
 ## Sandro Alonso Robles Alcoser (Coordinador de diseño)
+
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Sandro.jpeg)
 
 * Encargado de gestionar programas enfocados al prototipo de la propuesta de solucion en alternativas tangibles con bocetos, asi como gestionar el logo de la pagina. Facilitar el seguimiento de metologia de investigacion con la realizacion de graficos estadisticos. Seleccion y diseño de imagenes esteticas.
 
