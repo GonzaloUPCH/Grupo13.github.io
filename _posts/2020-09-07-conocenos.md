@@ -25,9 +25,9 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 ## Gonzalo Povea Galdo(Coordinador de sitio web)
 
-* Encargado de gestionar la base de datos tanto en el diseño de la pagina como en la configuracion basica del servidor. La funcion incluye la actualizacion semanal del contenido por avance del grupo ademas de velar por el manejo de la originalidad.
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Gonzalo.jpeg)
 
- ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Gonzalo.jpeg)
+* Encargado de gestionar la base de datos tanto en el diseño de la pagina como en la configuracion basica del servidor. La funcion incluye la actualizacion semanal del contenido por avance del grupo ademas de velar por el manejo de la originalidad.
  
 ## Sandro Alonso Robles Alcoser (Coordinador de diseño)
 
