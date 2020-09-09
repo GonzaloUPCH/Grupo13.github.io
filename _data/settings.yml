@@ -9,9 +9,8 @@ menu:
 - {name: 'Conocenos', folder: 'pages', file: 'conocenos.html'}
 - {name: 'Caso Medico', folder: 'pages', file: 'caso-medico.html'}
 - {name: 'Entregables', folder: 'pages', file: 'entregables.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+- {name: 'Diseños', folder: 'pages', file: 'diseños.html'}
+
 
 
 # Customize site text
