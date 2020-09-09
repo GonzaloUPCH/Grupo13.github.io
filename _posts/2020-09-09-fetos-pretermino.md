@@ -36,7 +36,7 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 * Hiperglucemia	
 * Isoinmunización por Rh con hidropesía	
  
- ## Consecuencias 
+ # Consecuencias 
  
 * Taquipnea: respiración acelerada 
 * Retracción de las costillas y del centro del tórax en cada respiración 
