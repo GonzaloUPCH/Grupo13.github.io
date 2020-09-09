@@ -23,6 +23,8 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 ## Ricardo Alonso Muñoz Quiroz(Coordinador de programacion)
 
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Ricardo.jpeg)
+
 * Encargado de gestionar tareas generadas por nuestra propuesta de solucion (acciones programadas) mediante la digitalizacion del Arduino y manejo del codigo fuente. 
 
 ## Harold Angeles Gavidia(Coordinador organizacional)
