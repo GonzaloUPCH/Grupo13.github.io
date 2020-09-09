@@ -29,7 +29,7 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
  ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Gonzalo.jpeg)
  
- ## Sandro Alonso Robles Alcoser (Coordinador de diseño)
+## Sandro Alonso Robles Alcoser (Coordinador de diseño)
 
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Sandro.jpeg)
 
