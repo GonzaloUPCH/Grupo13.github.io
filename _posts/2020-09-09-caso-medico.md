@@ -2,8 +2,8 @@
 layout: post
 title: "Caso medico"
 author: "Equipo de investigacion"
-categories: medicina
-tags: [medicina]
+categories: caso-medico
+tags: [caso-medico]
 image: arctic-1.jpg
 ---
 
