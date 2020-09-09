@@ -4,7 +4,7 @@ title: "Entregables"
 author: "Equipo de investigacion"
 categories: entregables
 tags: [entregables,sample]
-image: entregable.jpg
+image: entregable.png
 ---
 
 En esta seccion presentaremos un resumen de los entregables designados para cada semana de trabajo, con los correspondientes links para poder visualizar la informacion completa. Se detallaran los segmentos modificados de la pagina web y los cambios realizados por el equipo de trabajo.
