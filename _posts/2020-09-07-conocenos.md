@@ -27,7 +27,7 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Haru%20(2).jpeg)
 
-* Encargado de gestionar las fechas de reuniones como agrupacion, asi coomo ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo. Osea el vago.
+* Encargado de gestionar las fechas de reuniones como agrupacion, asi coomo ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo.
  
 
 
