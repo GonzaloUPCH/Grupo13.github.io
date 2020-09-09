@@ -2,8 +2,8 @@
 layout: post
 title: "Diseños y modelos"
 author: "Equipo de diseño"
-categories: diseño
-tags: [diseño]
+categories: diseños
+tags: [diseños]
 image: cuba-4.jpg
 ---
 
