@@ -41,5 +41,7 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 ## Alejandra Andrea Diaz Casanova (Coordinador de modelado 3D)
 
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Aled.jpeg)
+
 * Encargado de gestionar programas enfocados al prototipo de la propuesta de solucion como Autodesk Inventor, Tinkercad, etc.
 
