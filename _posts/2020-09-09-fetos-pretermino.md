@@ -14,6 +14,25 @@ image: feto1.jpg
 
 * Según la Encuesta Demográfica y de Salud Familiar del Instituto Nacional de Estadística e Informática (2015) la mortalidad neonatal precoz es de 77%; de estos el 36% fallecen en las primeras 24 horas de vida y están por lo general relacionadas a la enfermedad de la membrana hialina, la cual suele afectar a los recién nacidos pretérmino.
  
+# Efectos 
+ 
+* Taquipnea: respiración acelerada 
+* Retracción de las costillas y del centro del tórax en cada respiración 
+*	Aleteo nasal 
+*	Respiración notablemente costosa y rápida
+*	Resoplidos al espirar
+*	MV disminuido 
+*	Quejido
+*	Diámetro anteroposterior disminuido 
+*	Diuresis disminuida: disminución de la producción de orina
+*	Edema: acumulación anormal de líquido en los pulmones
+*	Vasoconstricción periférica marcada: piel pálida-gris 
+*	Neonato fatigado con flacidez
+*	Hipoaereación: Estertores crepitantes 
+*	Hipoxemia moderada-grave
+*	Hipercapnia significativa: retención del dióxido de carbono, provoca una acificación respiratoria
+*	Acidosis metabólica: afección en la cual hay demasiado ácido en los líquidos corporales.
+*	Empleo de músculos accesorios 
 
 # Causas 
 
@@ -36,26 +55,6 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 * Hiperglucemia	
 * Isoinmunización por Rh con hidropesía	
  
- # Consecuencias 
- 
-* Taquipnea: respiración acelerada 
-* Retracción de las costillas y del centro del tórax en cada respiración 
-*	Aleteo nasal 
-*	Respiración notablemente costosa y rápida
-*	Resoplidos al espirar
-*	MV disminuido 
-*	Quejido
-*	Diámetro anteroposterior disminuido 
-*	Diuresis disminuida: disminución de la producción de orina
-*	Edema: acumulación anormal de líquido en los pulmones
-*	Vasoconstricción periférica marcada: piel pálida-gris 
-*	Neonato fatigado con flacidez
-*	Hipoaereación: Estertores crepitantes 
-*	Hipoxemia moderada-grave
-*	Hipercapnia significativa: retención del dióxido de carbono, provoca una acificación respiratoria
-*	Acidosis metabólica: afección en la cual hay demasiado ácido en los líquidos corporales.
-*	Empleo de músculos accesorios 
-
 ## Complicaciones 
 
 *	Síndrome de fuga de aire: escape de aire del árbol traqueobronquial hacia localizaciones donde normalmente no está presente.
