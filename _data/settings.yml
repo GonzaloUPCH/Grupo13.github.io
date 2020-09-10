@@ -10,6 +10,7 @@ menu:
 - {name: 'Casos Medicos', folder: 'pages', file: 'casos-medicos.html'}
 - {name: 'Entregables', folder: 'pages', file: 'entregables.html'}
 - {name: 'Diseños', folder: 'pages', file: 'diseños.html'}
+- {name: 'Bibliografia', folder: 'pages', file: 'bibliografia.html'}
 
 
 
