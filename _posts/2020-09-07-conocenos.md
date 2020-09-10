@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Equipo de trabajo"
-author: "Equipo de programacion"
-categories: conocenos
+author: "Equipo de programación"
+categories: conócenos
 tags: [conocenos,entregables]
 image: 0.jpg
 ---
 
-Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pontificia Universidad Catolica del Peru y de la Universidad Peruana Cayetano Heredia, dedicados a la investigacion relacionada a problemas de salud. 
+Amutay es un grupo de estudiantes de la carrera Ingeniería Biomédica de la Pontificia Universidad Catolica del Peru y de la Universidad Peruana Cayetano Heredia, dedicados a la investigación relacionada a problemas de salud. 
 
 # Mision
 
@@ -54,12 +54,12 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 * Encargado de gestionar las fechas de reuniones como agrupación, asi como ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo.
 
-## Alejandra Andrea Diaz Casanova (Coordinador de modelado 3D)
+## Alejandra Andrea Diaz Casanova (Coordinadora de modelado 3D)
 
    ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Aled.jpeg)
 
 * Encargado de gestionar programas enfocados al prototipo de la propuesta de solución como Autodesk Inventor, Tinkercad, etc.
 
-# ¿Porque GitHub?
+# ¿Por qué GitHub?
 
 * GitHub es actualmente nuestra plataforma de trabajo, ya que presenta diferentes herramientas para la modificación y seguimiento de información. Da la ventaja de trabajar individualmente a la distancia con diferentes compañeros de trabajo, pero la razón mas importantes es que, la adquisición de conocimientos en programación para poder organizar toda la informacion presentada y descubrir todas las herramientas que nos pueda brindar equivale un reto que el Grupo13 esta dispuesto a enfrentar.    
