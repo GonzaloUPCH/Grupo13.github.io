@@ -15,4 +15,4 @@ En esta seccion presentaremos un resumen de los entregables designados para cada
 
 * Ademas se adjunto informacion sobre el equipo de trabajo, junto con su respectiva asignacion a desarrollar a lo largo del curso. Pulse [aqui]({{ site.github.url }}{% post_url 2020-09-07-conocenos %}) para mas informacion.
 
-* Se diseño y modelo la pagina previo a una coordinacion del grupo. Pulse aqui para mas informacion.
+* Se diseño y modelo la pagina previo a una coordinacion del grupo. Pulse [aqui](https://github.com/GonzaloUPCH/Grupo13.github.io) para mas informacion.
