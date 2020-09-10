@@ -6,11 +6,11 @@ disqus:
 
 
 menu:
-- {name: 'Conocenos', folder: 'pages', file: 'conocenos.html'}
-- {name: 'Casos Medicos', folder: 'pages', file: 'casos-medicos.html'}
+- {name: 'Conócenos', folder: 'pages', file: 'conócenos.html'}
+- {name: 'Casos Médicos', folder: 'pages', file: 'casos-médicos.html'}
 - {name: 'Entregables', folder: 'pages', file: 'entregables.html'}
 - {name: 'Modelos', folder: 'pages', file: 'modelos.html'}
-- {name: 'Bibliografia', folder: 'pages', file: 'bibliografia.html'}
+- {name: 'Bibliografía', folder: 'pages', file: 'bibliografía.html'}
 
 
 
@@ -19,8 +19,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'No te olvides de compartir esta informacion!'
+sharing_button_prompt: 'No te olvides de compartir esta información!'
 
-related_posts: 'Tambien te puede interesar...'
+related_posts: 'También te puede interesar...'
 
 post_date_prefix: 'Escribe en'
