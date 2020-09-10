@@ -11,7 +11,7 @@ En esta sección presentaremos un resumen de los entregables designados para cad
 
 # Semana 1
 
-* En la primera semana se investigó acerca del caso clínico con un enfoque personal del grupo abarcando los siguientes temas: problemática, causas y efectos, incidencias, mortalidad y fisiopatología. Pulse [aqui]({{ site.github.url }}{% post_url 2020-09-09-fetos-pretermino %}) para más información.
+* En la primera semana se investigó acerca del caso clínico con un enfoque personal del grupo abarcando los siguientes temas: problemática, causas y efectos, incidencias, mortalidad y fisiopatología. Pulse [aqui]({{ site.github.url }}{% post_url 2020-09-09-fetos-pretermino %}) para mas informacion.
 
 * Además se adjuntó información sobre el equipo de trabajo, junto con su respectiva asignacion a desarrollar a lo largo del curso. Pulse [aqui]({{ site.github.url }}{% post_url 2020-09-07-conocenos %}) para mas informacion.
 
