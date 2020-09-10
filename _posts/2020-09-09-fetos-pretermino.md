@@ -2,8 +2,8 @@
 layout: post
 title: "Fetos pretérmino"
 author: "Equipo de investigacion"
-categories: caso-medico
-tags: [caso-medico]
+categories: casos-medicos
+tags: [casos-medicos]
 image: feto1.jpg
 ---
 # Problematica
