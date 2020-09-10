@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fetos pretérmino"
-author: "Equipo de investigacion"
+author: "Equipo de investigación"
 categories: casos-medicos
 tags: [casos-medicos]
 image: feto1.jpg
@@ -86,7 +86,7 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 
 ## Muestras de mortalidad en el Peru 
 
-* Si bien es cierto, la tasa de mortalidad ha disminuido en estas ultimas décadas de acuerdo a la enfermedad de la membrana hialina. Sin embargo, sigue presentando un problema cadente. Se muestran a continuación datos estadísticos sobre la tasa de mortalidad en lima por la EMH en lima (Ota Nakasome,2018). en comparación tanto con otras enfermedades comunes y en relación al transcurso de los años:
+* Si bien es cierto, la tasa de mortalidad ha disminuido en estas últimas décadas de acuerdo a la enfermedad de la membrana hialina. Sin embargo, sigue presentando un problema cadente. Se muestran a continuación datos estadísticos sobre la tasa de mortalidad en lima por la EMH en lima (Ota Nakasome,2018). en comparación tanto con otras enfermedades comunes y en relación al transcurso de los años:
 
 ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/tasa.jpg)
 
