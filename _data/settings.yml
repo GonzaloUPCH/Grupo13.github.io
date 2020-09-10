@@ -7,7 +7,7 @@ disqus:
 
 menu:
 - {name: 'Conocenos', folder: 'pages', file: 'conocenos.html'}
-- {name: 'Casos', folder: 'pages', file: 'casos.html'}
+- {name: 'Casos Medicos', folder: 'pages', file: 'casos-medicos.html'}
 - {name: 'Entregables', folder: 'pages', file: 'entregables.html'}
 - {name: 'Modelos', folder: 'pages', file: 'modelos.html'}
 - {name: 'Bibliografia', folder: 'pages', file: 'bibliografia.html'}
