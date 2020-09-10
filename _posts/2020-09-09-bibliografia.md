@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Bibliografia"
-author: "Equipo de investigacion"
+title: "Bibliografía"
+author: "Equipo de investigación"
 categories: bibliografia
 tags: [bibliografia,entregables]
 image: libros.jpg
 ---
 
-Esta seccion esta destinada a presentar las fuentes de donde se ha recopilado la informacion presentada en los diferentes casos medicos. 
+Esta sección esta destinada a presentar las fuentes de donde se ha recopilado la información presentada en los diferentes casos médicos. 
 
 # Semana 1
 
-### Problematica
+### Problemática
 
 * Lizarbe.M.(2017). “Boletín epidemiológico del Perú”. Ministerio de Salud. Lima, Perú.
 * Nakasone.A.(2018). “Manejo neonatal del prematuro: avances en el Perú”. Revista peruana de ginecología y obstetricia. Lima, Perú.
