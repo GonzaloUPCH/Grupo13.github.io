@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Conocenos"
-author: "Equipo de software"
+title: "Equipo de trabajo"
+author: "Equipo de programacion"
 categories: conocenos
 tags: [conocenos]
 image: 0.jpg
