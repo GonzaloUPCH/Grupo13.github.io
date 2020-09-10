@@ -68,6 +68,8 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 *	Displasia broncopulmonar (DBP): trastorno pulmonar de largo plazo (crónico)
 *	Retinopatía de prematuro: enfermedad ocular, los vasos sanguíneos crezcan de una forma anormal y aleatoria dentro del ojo. 
 
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/causa.jpg)
+
 # Impacto en Latinoamerica 
 
 * La presencia de los factores de riesgos y causas inmediatas asociadas a la enfermedad dejan en evidencia que esta condición puede impactar a las familias y los neonatos de manera paulatina. Uno de estos va dirigido al impacto económico que acarrean las consecuencias de la enfermedad en el neonato, ya que una rehabilitación no tan exitosa puede dejar lesiones graves en los pulmones que lleven a condiciones respiratorias a futuro. La magnitud del impacto radica en el tipo de gestantes, en las cuales se presenta un parto prematuro, siendo en jóvenes de la selva.
