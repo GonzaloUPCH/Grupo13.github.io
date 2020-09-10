@@ -11,55 +11,55 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 # Mision
 
-* Determinar ideas de solucion optimas para satisfacer necesiadades sanitarias particulares y generales.  
+* Determinar ideas de solución óptimas para satisfacer necesiadades sanitarias particulares y generales.  
 
-* Tangibilizar las propuestas de desarrollo para solucionar los problemas medicos presentados.
+* Tangibilizar las propuestas de desarrollo para solucionar los problemas médicos presentados.
 
 # Vision
 
 * Optimizar el avance del proyecto para lograr un producto satisfactorio y eficiente.
 
-* Abarcar todo segmento donde se presente demanda de recursos medicos.   
+* Abarcar todo segmento donde se presente demanda de recursos médicos.   
 
 
 # Integrantes
 
-## Ricardo Alonso Muñoz Quiroz(Coordinador de programacion)
+## Ricardo Alonso Muñoz Quiroz(Coordinador de programación)
 
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Ricardo.jpeg)
 
-* Encargado de gestionar tareas generadas por nuestra propuesta de solucion (acciones programadas) mediante la digitalizacion del Arduino y manejo del codigo fuente.
+* Encargado de gestionar tareas generadas por nuestra propuesta de solución (acciones programadas) mediante la digitalización del Arduino y manejo del código fuente.
 
-## Alejandra Vilca Landa(Coordinador de investigacion)
+## Alejandra Vilca Landa(Coordinadora de investigación)
 
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Alev.jpeg)
 
-* Encargado de gestionar la informacion que sea necesaria para el avance del proyect. Verificar las fuentes utilizadas, analizar el contenido relevante, revision del estado del arte, causas-efectos, fisiopatologia, datos estadisticos sobre incidencia y mortalidad, y las propuestas de solucion generadas.
+* Encargado de gestionar la información que sea necesaria para el avance del proyecto. Verificar las fuentes utilizadas, analizar el contenido relevante, revisión del estado del arte, causas-efectos, fisiopatología, datos estadísticos sobre incidencia y mortalidad, y las propuestas de solución generadas.
 
 ## Gonzalo Povea Galdo(Coordinador de sitio web)
 
 ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Gonzalo.jpeg)
 
-* Encargado de gestionar la base de datos tanto en el diseño de la pagina como en la configuracion basica del servidor. La funcion incluye la actualizacion semanal del contenido por avance del grupo ademas de velar por el manejo de la originalidad.
+* Encargado de gestionar la base de datos tanto en el diseño de la página como en la configuracián básica del servidor. La funcián incluye la actualización semanal del contenido por avance del grupo además de velar por el manejo de la originalidad.
  
 ## Sandro Alonso Robles Alcoser (Coordinador de diseño)
 
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Sandro.jpeg)
 
-* Encargado de gestionar programas enfocados al prototipo de la propuesta de solucion en alternativas tangibles con bocetos, asi como gestionar el logo de la pagina. Facilitar el seguimiento de metologia de investigacion con la realizacion de graficos estadisticos. Seleccion y diseño de imagenes esteticas.
+* Encargado de gestionar programas enfocados al prototipo de la propuesta de solución en alternativas tangibles con bocetos, asi como gestionar el logo de la página. Facilitar el seguimiento de metología de investigación con la realización de gráficos estadísticos. Selección y diseño de imágenes estéticas.
 
 ## Harold Angeles Gavidia(Coordinador organizacional)
 
   ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Haru%20(2).jpeg)
 
-* Encargado de gestionar las fechas de reuniones como agrupacion, asi coomo ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo.
+* Encargado de gestionar las fechas de reuniones como agrupación, asi como ordenar las actividades semanales. Consiste en dar los alcances necesarios para el cumplimiento de las tareas necesarias y el trabajo del equipo.
 
 ## Alejandra Andrea Diaz Casanova (Coordinador de modelado 3D)
 
    ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/Aled.jpeg)
 
-* Encargado de gestionar programas enfocados al prototipo de la propuesta de solucion como Autodesk Inventor, Tinkercad, etc.
+* Encargado de gestionar programas enfocados al prototipo de la propuesta de solución como Autodesk Inventor, Tinkercad, etc.
 
 # ¿Porque GitHub?
 
-* GitHub es actualmente nuestra plataforma de trabajo, ya que presenta diferentes herramientas para la modificacion y seguimiento de informacion. Da la ventaja de trabajar individualmente a la distancia con diferentes compañeros de trabajo, pero la razon mas importantes es que, la adquisicion de conocimientos en programacion para poder organizar toda la informacion presentada y descubrir todas las herramientas que nos pueda brindar equivale un reto que el Grupo13 esta dispuesto a enfrentar.    
+* GitHub es actualmente nuestra plataforma de trabajo, ya que presenta diferentes herramientas para la modificación y seguimiento de información. Da la ventaja de trabajar individualmente a la distancia con diferentes compañeros de trabajo, pero la razón mas importantes es que, la adquisición de conocimientos en programación para poder organizar toda la informacion presentada y descubrir todas las herramientas que nos pueda brindar equivale un reto que el Grupo13 esta dispuesto a enfrentar.    
