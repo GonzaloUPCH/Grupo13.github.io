@@ -3,7 +3,7 @@ layout: post
 title: "Equipo de trabajo"
 author: "Equipo de programacion"
 categories: conocenos
-tags: [conocenos]
+tags: [conocenos,entregables]
 image: 0.jpg
 ---
 
