@@ -74,6 +74,8 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 
 * La presencia de los factores de riesgos y causas inmediatas asociadas a la enfermedad dejan en evidencia que esta condición puede impactar a las familias y los neonatos de manera paulatina. Uno de estos va dirigido al impacto económico que acarrean las consecuencias de la enfermedad en el neonato, ya que una rehabilitación no tan exitosa puede dejar lesiones graves en los pulmones que lleven a condiciones respiratorias a futuro. La magnitud del impacto radica en el tipo de gestantes, en las cuales se presenta un parto prematuro, siendo en jóvenes de la selva.
 
+![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/impacto.jpg)
+
 ## Niveles de incidencia
 
 * Un estudio realizado por la Dra. Fernanda Acuña Arellano -pediatra chilena pudo compara los niveles de incidencia para la enfermedad de la membrana hialina. Dentro de la muestra o segmento de población analizado se presentaron (5-10) % casos conocidos como RNPT de los cuales los nacidos a la semana 28 fueron entre 80-90 % del muestreo. Sin aplicación de corticoides (hormonas reguladoras) se presentaron en un 60% de casos con la enfermedad. Esto nos demuestra que más de la mitad del segmento de estudio denominado como RNPT posee un riesgo elevado de contraer la enfermedad.
