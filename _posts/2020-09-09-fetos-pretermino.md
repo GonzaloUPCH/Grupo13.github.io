@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "Fetos pretérmino"
-author: "Equipo de investigacion"
+author: "Equipo de investigación"
 categories: casos-medicos
 tags: [casos-medicos]
 image: feto1.jpg
 ---
-# Problematica
+# Problemática
 
 * La enfermedad de la membrana hialina consiste en el déficit de surfactante del pulmón (mayormente de los recién nacidos pretérmino) provocando que el paciente sea incapaz de mantener una aireación y un intercambio gaseoso adecuado. 
 
 ![alt text](https://raw.githubusercontent.com/GonzaloUPCH/Grupo13.github.io/Parche-oficial-2/assets/img/problematica.jpg)
 
-* Se manifiesta como un cuadro respiratorio agudo que va avanzando progresivamente las primeras horas de vida, entre (24 - 48 h) la vida del pretérmino se ve más amenazada por la EMH y, en casos no complicados, comienza a mejorar a partir del tercer día de vida. La dificultad respiratoria se debe a la pérdida de la función tensoactiva que produce un colapso alveolar, razón por la cual el pulmón se hace más rígido y tiende rápidamente al aletargamiento, aumentando el trabajo y el esfuerzo respiratorio. Este aumento del esfuerzo no podrá mantenerse debido a la limitación de la fuerza muscular que afecta a la función del diafragma y facilita que la pared torácica sea más débil con tendencia a deformarse, lo que dificulta la ventilación y el intercambio gaseoso. 
+* Se manifiesta como un cuadro respiratorio agudo que va avanzando progresivamente las primeras horas de vida, entre (24 - 48 h) la vida del pretérmino se ve más amenazada por la EMH y, en casos no complicados, comienza a mejorar a partir del tercer día de vida. La dificultad respiratoria se debe a la pérdida de la función tensoactiva que produce un colapso alveolar, razón por la cual el pulmón se hace más rígido y tiende rápidamente al aletargamiento, lo cual aumenta el trabajo y el esfuerzo respiratorio. Este aumento del esfuerzo no podrá mantenerse debido a la limitación de la fuerza muscular que afecta a la función del diafragma y facilita que la pared torácica sea más débil con tendencia a deformarse, lo que dificulta la ventilación y el intercambio gaseoso. 
 
 * Según la Encuesta Demográfica y de Salud Familiar del Instituto Nacional de Estadística e Informática (2015) la mortalidad neonatal precoz es de 77%; de estos el 36% fallecen en las primeras 24 horas de vida y están por lo general relacionadas a la enfermedad de la membrana hialina, la cual suele afectar a los recién nacidos pretérmino.
  
@@ -86,6 +86,6 @@ La causa principal de la enfermedad es la falta de la sustancia que evita que lo
 
 ## Muestras de mortalidad en el Peru 
 
-* Si bien es cierto, la tasa de mortalidad ha disminuido en estas ultimas décadas de acuerdo a la enfermedad de la membrana hialina. Sin embargo, sigue presentando un problema cadente. Se muestran a continuación datos estadísticos sobre la tasa de en lima por la EMH en lima (Ota Nakasome,2018). en comparación tanto con otras enfermedades comunes y en relación al transcurso de los años:
+* Si bien es cierto, la tasa de mortalidad ha disminuido en estas ultimas décadas de acuerdo a la enfermedad de la membrana hialina. Sin embargo, sigue presentando un problema cadente. Se muestran a continuación datos estadísticos sobre la tasa de en lima por la EMH en lima (Ota Nakasome,2018). En comparación tanto con otras enfermedades comunes y en relación al transcurso de los años:
 
 
