@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bibliografia"
-author: "Equipo de investigacion"
+title: "Bibliografía"
+author: "Equipo de investigación"
 categories: bibliografia
 tags: [bibliografia,entregables]
 image: libros.jpg
