@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entregables"
-author: "Equipo de investigación"
+author: "Equipo de investigacion"
 categories: entregables
 tags: [entregables,sample]
 image: entregable.png
