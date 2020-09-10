@@ -9,6 +9,19 @@ image: 0.jpg
 
 Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pontificia Universidad Catolica del Peru y de la Universidad Peruana Cayetano Heredia, dedicados a la investigacion relacionada a problemas de salud. 
 
+# mision
+
+* Determinar ideas de solucion optimas para satisfacer necesiadades sanitarias particulares y generales.  
+
+* Tangibilizar las propuestas de desarrollo para solucionar los problemas medicos presentados.
+
+# vision
+
+* Optimizar el avance del proyecto para lograr un producto satisfactorio y eficiente.
+
+* Abarcar todo segmento donde se presente demanda de recursos medicos.   
+
+
 # Integrantes
 
 ## Ricardo Alonso Muñoz Quiroz(Coordinador de programacion)
@@ -47,3 +60,6 @@ Amutay es un grupo de estudiantes de Ingenieria Biomedica de las universades Pon
 
 * Encargado de gestionar programas enfocados al prototipo de la propuesta de solucion como Autodesk Inventor, Tinkercad, etc.
 
+# ¿Porque GitHub?
+
+* GitHub es actualmente nuestra plataforma de trabajo, ya que presenta diferentes herramientas para la modificacion y seguimiento de informacion. Da la ventaja de trabajar individualmente a la distancia con diferentes compañeros de trabajo, pero la razon mas importantes es que, la adquisicion de conocimientos en programacion para poder organizar toda la informacion presentada y descubrir todas las herramientas que nos pueda brindar equivale un reto que el Grupo13 esta dispuesto a enfrentar.    
