@@ -9,13 +9,13 @@ image: 0.jpg
 
 Amutay es un grupo de estudiantes de la carrera Ingeniería Biomédica de la Pontificia Universidad Catolica del Peru y de la Universidad Peruana Cayetano Heredia, dedicados a la investigación relacionada a problemas de salud. 
 
-# Mision
+# Misión
 
 * Determinar ideas de solución óptimas para satisfacer necesiadades sanitarias particulares y generales.  
 
 * Tangibilizar las propuestas de desarrollo para solucionar los problemas médicos presentados.
 
-# Vision
+# Visión
 
 * Optimizar el avance del proyecto para lograr un producto satisfactorio y eficiente.
 
