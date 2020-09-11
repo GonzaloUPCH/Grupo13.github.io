@@ -22,6 +22,7 @@ Amutay es un grupo de estudiantes de la carrera Ingeniería Biomédica de las un
 
 * Abarcar todo segmento donde se presente demanda de recursos medicos.   
 
+* Evolucionar de ser un grupo de jovenes universitarios capaces de desarrollar y gestionar un proyecto en la univerdad a ser un grupo capaz de hacer llegar propuestas de solucion a diferentes sectores como hospitales en Peru/Latinoamerica/Mundo.
 
 # Integrantes
 
