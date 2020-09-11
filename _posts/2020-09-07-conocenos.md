@@ -2,7 +2,7 @@
 layout: post
 title: "Equipo de trabajo"
 author: "Equipo de programación"
-categories: conócenos
+categories: conocenos
 tags: [conocenos,entregables]
 image: 0.jpg
 ---
